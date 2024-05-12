@@ -123,6 +123,9 @@ img {
 /*.col-12 text-center{
 	top: 60%;
 }*/
+.collectWish {
+    display: none; /* Hide the "Collect Wishes" button by default */
+}
 .collectWish button {
     width: 50%;
     height: 100px;
